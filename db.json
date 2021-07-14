@@ -1,20 +1,20 @@
 {
-    "person": {
-      "firstname": "Test",
-      "lastname": "User",
-      "jurisdiction": "DE",
-      "opening": "30.05.2020",
-    },
-    "contact": {
-      "email": {
-        "email": "test.user@test.dedasdasdadaadadsa",
-        "verified": true,
+   "person":{
+      "firstname":"Test",
+      "lastname":"User",
+      "jurisdiction":"DE",
+      "opening":"30.05.2020"
+   },
+   "contact":{
+      "email":{
+         "email":"test.user@test.dedasdasdadaadadsa",
+         "verified":true
       },
-      "phoneNumber": "+4915111070000",
-    },
-    "account": {
-      "OS": "ios 14.1",
-      "language": "de",
-      "externalID": "1234",
-    }
+      "phoneNumber":"+4915111070000"
+   },
+   "account":{
+      "OS":"ios 14.1",
+      "language":"de",
+      "externalID":"1234"
+   }
 }
