@@ -11,7 +11,8 @@
             "email":"test.user@test.dedasdasdadaadadsa",
             "verified":true
          },
-         "phoneNumber":"+4915111070000"
+         "phoneNumber":"+4915111070000",
+         "accountState": "ONBOARDING"
       },
       "account":{
          "OS":"ios 14.1",
