@@ -15,7 +15,7 @@
          "accountState": "ONBOARDING"
       },
       "account":{
-         "OS":"ios 14.1",
+         "os":"ios 14.1",
          "language":"de",
          "externalID":"1234"
       }
